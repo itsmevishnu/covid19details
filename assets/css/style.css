@@ -18,7 +18,7 @@ a {
 }
 
 a:hover {
-  color: #37b3ed;
+  color: #fff;
   text-decoration: none;
 }
 
@@ -1097,4 +1097,10 @@ strong{
 }
 .card .card-text {
   min-height: 50px;
+}
+
+.back-to-top:hover{
+  color:#df594b;
+  background: #fff;
+  border-color: #df594b;
 }
