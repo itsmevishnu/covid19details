@@ -1,2 +1,2 @@
 #Covid19Details
-A simple website having basic information about covid
+Website to aware the society about the COVID 19 Pandemic.
